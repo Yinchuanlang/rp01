@@ -1,9 +1,7 @@
-<<<<<<< HEAD
 //hahaha
-=======
 //************change made*/
 
->>>>>>> branch 'master' of https://github.com/Yinchuanlang/rp01.git
+
 sap.ui.define([
 	"sap/ui/core/UIComponent",
 	"sap/ui/Device",
